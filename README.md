@@ -21,7 +21,9 @@ This Python console application allows users to manage a basic inventory. It sup
 ```bash
 python inventory.py
 
+
 ## Example Interaction
+
 
 Inventory Management System
 1. Add Item to Inventory
@@ -33,5 +35,6 @@ Enter the item name: apples
 Enter the quantity to add: 10
 Added 10 of apples to inventory.
 
-Author
+ ## Author
+
 Created by Niamh Quinn (me) as part of my Python learning journey. Focused on clean logic, user interaction, and practical functionality.
